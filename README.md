@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musabaku&label=Profile%20views&color=0e75b6&style=flat" alt="musabaku" /> </p>
 
-- 🔭 I’m currently working on **ML Data set**
+- 🔭 I’m currently working on **ML Data set & Learning Java Spring**
 
 - 🌱 I’m currently learning **DSA,SQL**
 
