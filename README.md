@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musabaku&label=Profile%20views&color=0e75b6&style=flat" alt="musabaku" /> </p>
 
-- 🔭 I’m currently working on **ML Data set , Completing Dynamic Programming, Working on A Personal Recipe App Project**
+- 🔭 I’m currently working on **ML Data set , Completing Dynamic Programming**
 
-- 🌱 I’m currently learning **DSA,SQL**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **MERN stack**
+- 👯 I’m looking to collaborate on **C# .NET stack**
 
 - 👨‍💻 All of my projects are available at [https://macommerce-ndrj.onrender.com/](https://macommerce-ndrj.onrender.com/)
 
