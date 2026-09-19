@@ -84,6 +84,6 @@ Some representative public repositories:
 - [CV_Segmentation](https://github.com/musabaku/CV_Segmentation) — computer-vision / medical-imaging work.
 - [Hyper-Thyroid-ML](https://github.com/musabaku/Hyper-Thyroid-ML) — machine-learning experimentation.
 - [NomuBackend](https://github.com/musabaku/NomuBackend) — C# backend work.
-- [MealDiary](https://github.com/musabaku/MealDiary) — full-stack application work.
+- [Bpa-Project-Full-Stack](https://github.com/musabaku/Bpa-Project-Full-Stack) — public full-stack JavaScript application work.
 
 For production ERP/logistics work, the source and operational data are private; the case studies above describe the engineering scope without exposing proprietary material.
