@@ -92,8 +92,8 @@ Machine-learning experimentation for structured healthcare data.
 ### [NomuBackend](https://github.com/musabaku/NomuBackend)
 Public C# backend project demonstrating .NET/backend development.
 
-### [MealDiary](https://github.com/musabaku/MealDiary)
-Full-stack application work spanning backend, frontend, persistence, authentication, and deployment concerns.
+### [Bpa-Project-Full-Stack](https://github.com/musabaku/Bpa-Project-Full-Stack)
+Public full-stack JavaScript application work covering frontend/backend integration and application flows.
 
 ---
 
